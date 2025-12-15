@@ -22,7 +22,6 @@ mini_turtle_oo_task/
 │   ├── __init__.py             <-- Interfaz (Exporta la Clase Turtle)
 │   └── turtle_class.py         <-- Lógica (Define la Clase Turtle)
 ├── main.py                     <-- Script de prueba con OBJETOS
-└── pyproject.toml              <-- Metadatos para la instalación (Opcional)
 
 
 
